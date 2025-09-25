@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Keep your best prompts close."
+	subtitle="Stop searching, retyping, and wasting time."
+	imageSrc="/generated/image-natural-light-editorial-photo-of-a-marke.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/notion.so/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/hubspot.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/slack.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/figma.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
