@@ -32,31 +32,30 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maya Patel",
+			position: "Marketing Director",
+			company: "CloudScale SaaS",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Prompt Quiver saved me 4 hours every day by organizing my 80+ prompts into searchable categories.\nMy content quality improved dramatically with consistent, proven templates at my fingertips.",
+			image: "/generated/image-photorealistic-professional-headshot-of-.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Rodriguez",
+			position: "AI Strategy Consultant",
+			company: "Neural Insights",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Managing client prompts across 15 different projects used to be chaos.\nNow I deliver consistent results 3x faster and my clients see 67% better AI outputs.",
+			image: "/generated/image-photorealistic-professional-headshot-of-.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Elena Kowalski",
+			position: "Content Operations Manager",
+			company: "StreamlineTech",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The snippet system transformed how our team scales content creation.\nWe reduced prompt revision cycles by 75% and increased our content output by 200%.",
+			image: "/generated/image-photorealistic-professional-headshot-of-.webp"
 		}
 	]}
 />
