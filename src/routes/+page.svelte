@@ -83,4 +83,21 @@
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction 
+	title="Stop wasting 3+ hours a day on repeat prompt work"
+	subtitle="Install the extension and start reclaiming your time today"
+	description="Prompt Quiver centralizes your AI prompts, streamlines workflows with intelligent snippets, and fits right into your browser—so you can finally stop searching, retyping, and switching tools. No onboarding. No workflow disruption. Just immediate time savings."
+	imageSrc="/generated/image-happy-marketing-manager-celebrating-succ.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Get started for free",
+			variant: "primary"
+		},
+		{
+			href: "/demo",
+			label: "See how it works",
+			variant: "secondary"
+		}
+	]}
+/>
