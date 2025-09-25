@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Privacy first",
-			description: "Your prompts stay local. No cloud storage, no data collection, full user control."
+			title: "Built for power users",
+			description: "Designed specifically for marketing teams and AI consultants managing 50+ prompts daily who demand efficiency over complexity."
 		},
 		{
-			title: "Workflow focused",
-			description: "Built for real AI power users who need efficiency, not complexity."
+			title: "Privacy without compromise",
+			description: "Your intellectual property stays yours. Local storage means no cloud dependency, no data collection, complete user control."
 		},
 		{
-			title: "Universal compatibility",
-			description: "Works across all major AI platforms with seamless browser integration."
+			title: "Modular by design",
+			description: "Snippet-based architecture lets you build once, reuse everywhere. Update a component and watch it propagate across your entire prompt library."
 		}
 	];
 </script>
@@ -92,7 +92,8 @@
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to streamline your prompts?"
-	subtitle="Join thousands of AI power users"
-	description="Transform your scattered prompts into organized, efficient workflows. Start building your prompt library today and reclaim hours of productive time."
+	title="Stop losing hours to prompt chaos"
+	subtitle="Join 100K+ professionals who've taken control"
+	description="Transform those scattered prompts across Notion, Docs, and Slack into a streamlined system. Marketing managers at SaaS companies save 3+ hours daily with our privacy-first browser extension. Your IP stays local, your workflow stays fast."
+	imageSrc="/generated/image-photorealistic-editorial-lifestyle-photo.webp"
 />
