@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "Prompt Quiver",
+	description: "Transform chaotic AI interactions into streamlined workflows with intelligent prompt libraries and snippet management.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://promptquiver.com",
 	fontFamily: "Inter Variable"
 };
